@@ -1,4 +1,4 @@
-# binary_trees
+# binary tree
 
 General:
 
