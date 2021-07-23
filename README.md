@@ -1,4 +1,4 @@
-# binary tree
+# Binary Trees
 
 General:
 
@@ -9,5 +9,5 @@ General:
 - What is the difference between a binary tree and a Binary Search Tree
 - What is the possible gain in terms of time complexity compared to linked lists
 
-### Authors
+### Author
 * Olly | [GitHub](https://github.com/ollyimanishimwe) | [Twitter](https://twitter.com/ollyImanishimwe)
